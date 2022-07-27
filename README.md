@@ -1,19 +1,21 @@
 [![MasterHead](https://outreach.cnr.it/sites/default/files/styles/immagine_1920x480/public/media/dottorato-data-science/DATA-SCIENCE-BANNER-MIN.jpg?itok=vY5M-YB4)]
+
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">a Data Science student. <br>
 Yes, I know, you have questions. <br>
  I don't have the answers yet, but i do have the tools to find out. Hit me up!</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/3oz8xvG2EmEMJ4rS1y/giphy.gif?cid=790b7611c73459878a5a067c4f35c2d216e8bc414d848e39&rid=giphy.gif&ct=g">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=federoccco&label=Profile%20views&color=0e75b6&style=flat" alt="federoccco" /> </p>
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 📫 How to reach me **greco.federico@gmail.com**
+- 📫 How to reach me **greco.federico92@gmail.com**
 
 - ⚡ Fun fact **A Statistician can have his head in an oven and his feet in ice, and he will say that on the average he feels fine.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/federico-grecods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico-grecods" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/federoccco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="federoccco" height="30" width="40" /></a>
 <a href="https://kaggle.com/federoccco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="federoccco" height="30" width="40" /></a>
 <a href="https://instagram.com/federoccco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="federoccco" height="30" width="40" /></a>
