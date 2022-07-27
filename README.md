@@ -1,4 +1,4 @@
-[![MasterHead](https://outreach.cnr.it/sites/default/files/styles/immagine_1920x480/public/media/dottorato-data-science/DATA-SCIENCE-BANNER-MIN.jpg?itok=vY5M-YB4)]
+![MasterHead](https://outreach.cnr.it/sites/default/files/styles/immagine_1920x480/public/media/dottorato-data-science/DATA-SCIENCE-BANNER-MIN.jpg?itok=vY5M-YB4)
 
 <h1 align="center">Hi 👋, I'm Federico</h1>
 <h3 align="center">a Data Science student. <br>
