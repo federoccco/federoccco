@@ -4,7 +4,7 @@
 <h3 align="center">a Data Science student. <br>
 Yes, I know, you have questions. <br>
  I don't have the answers yet, but i do have the tools to find out. Hit me up!</h3>
-
+img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/3oz8xvG2EmEMJ4rS1y/giphy.gif?cid=790b7611c73459878a5a067c4f35c2d216e8bc414d848e39&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=federoccco&label=Profile%20views&color=0e75b6&style=flat" alt="federoccco" /> </p>
 
 - 🌱 I’m currently learning **Machine learning**
