@@ -6,7 +6,7 @@ Yes, I know, you have questions. <br>
  <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=federoccco&label=Profile%20views&color=0e75b6&style=flat" alt="federoccco" /> </p>
 
-<hr><br>
+<hr>
 
 - 🌱 I’m currently learning **Machine learning**
 
@@ -14,17 +14,15 @@ Yes, I know, you have questions. <br>
 
 - ⚡ Fun fact **A Statistician can have his head in an oven and his feet in ice, and he will say that on the average he feels fine.**
 <br>
-<br>
 <hr>
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/federico-grecods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico-grecods" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/federoccco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="federoccco" height="30" width="40" /></a>
 <a href="https://kaggle.com/federoccco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="federoccco" height="30" width="40" /></a>
 <a href="https://instagram.com/federoccco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="federoccco" height="30" width="40" /></a>
-</p><br>
-<hr><br>
+</p>
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
