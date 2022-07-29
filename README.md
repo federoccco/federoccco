@@ -13,7 +13,6 @@ Yes, I know, you have questions. <br>
 - 📫 How to reach me **greco.federico92@gmail.com**
 
 - ⚡ Fun fact **A Statistician can have his head in an oven and his feet in ice, and he will say that on the average he feels fine.**
-<br>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
