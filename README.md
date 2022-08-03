@@ -15,12 +15,12 @@ Yes, I know, you have questions. <br>
 - 📫 How to reach me **greco.federico92@gmail.com**
 
 - ⚡ Fun fact **A Statistician can have his head in an oven and his feet in ice, and he will say that on the average he feels fine.**
-<br>
+
 <br>
 <hr>
-<br>
+
 <details>
-  <summary>My personal projects</summary>
+  <summary><strong>My personal projects</strong></summary>
     <ul>
         <li><a href="https://www.kaggle.com/code/federicogreco/world-food-and-population-data-viz-project">DATA VISUALIZATION WITH PYTHON</a></li>
         <li><a href="https://github.com/federoccco/Start2Impact/tree/main/Data%20Science/File-Organizer">FILE ORGANIZER AND IMAGES PROCESSOR</a></li>
@@ -28,17 +28,17 @@ Yes, I know, you have questions. <br>
     </ul>
 </details>
 
-<br>
 <hr>
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/federico-grecods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico-grecods" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/federoccco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="federoccco" height="30" width="40" /></a>
 <a href="https://kaggle.com/federoccco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="federoccco" height="30" width="40" /></a>
 <a href="https://instagram.com/federoccco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="federoccco" height="30" width="40" /></a>
-</p><br>
-<hr><br>
+</p>
+<hr>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -67,7 +67,8 @@ Yes, I know, you have questions. <br>
 </p>
 
 ---
-<br>
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=federoccco&show_icons=true&locale=en&theme=dracula" alt="federoccco" /></p>
 
