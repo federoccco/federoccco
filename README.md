@@ -8,7 +8,7 @@ Yes, I know, you have questions. <br>
 
 <hr><br>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 🕸 website: **https://federoccco.github.io/Portfolio/**
 
@@ -22,6 +22,7 @@ Yes, I know, you have questions. <br>
 <details>
   <summary><strong>My personal projects</strong></summary>
     <ul>
+        <li><a href="https://slides.com/federoccco/code/fullscreen">DATA EXTRACTION WITH SQL</a></li>
         <li><a href="https://www.kaggle.com/code/federicogreco/world-food-and-population-data-viz-project">DATA VISUALIZATION WITH PYTHON</a></li>
         <li><a href="https://github.com/federoccco/Start2Impact/tree/main/Data%20Science/File-Organizer">FILE ORGANIZER AND IMAGES PROCESSOR</a></li>
         <li><a href="https://github.com/federoccco/Start2Impact/tree/main/Blockchain/daily-crypto-report">CRYPTOCURRENCY REPORTING SYSTEM</a></li>
@@ -48,6 +49,8 @@ Yes, I know, you have questions. <br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://numpy.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/TheHextech/TheHextech/main/img_n_gifs/numpy_icon.png" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="python" width="40" height="40"></a> 
 <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/TheHextech/TheHextech/main/img_n_gifs/plotly_icon.png" alt="plotly" width="60" height="40"/> </a>  
 <a href="https://matplotlib.org" target="_blank" rel="noreferrer">         
